@@ -1,7 +1,7 @@
 name: premade_widgets
 description: Create apps faster with ready to use widgets such as Page Navigation with nav bar, Buttons and more.
 version: 0.0.1
-homepage:
+homepage: https://github.com/aditya-kd/premade_widgets
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
