@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 import 'navigationBar.dart';
 
-class MinMade {
+class Premade {
   String monthName(int number) {
     List<String> months = [
       'January',
